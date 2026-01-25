@@ -8,7 +8,7 @@ WORKDIR /usr/share/nginx/html
 COPY nginx.conf /etc/nginx/conf.d/default.conf
 
 # Copy the pre-built `dist` folder from the host machine into the container
-COPY ./dist /usr/share/nginx/html/sis
+COPY ./dist /usr/share/nginx/html/layout
 
 
 # Expose port 80 to serve the application
