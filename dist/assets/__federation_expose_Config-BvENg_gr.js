@@ -1,1 +1,0 @@
-const t={sidebar:!0,autoRoute:null,chatbot:!0},e={e7ata:!0,confrences:!0,commitment:!0,mgrDistribution:!0,ExportWithoutSign:!0,opinionMgr:"المدير",opinionDeputy:"النائب",allWared:!1,distributeIfAction:!0,allWaredEdit:!1,qwidat:!1},o={signature:!1,ButtonSignandSend:!0},r={root:t,archive:e,memos:o};export{e as archive,r as default,o as memos,t as root};
